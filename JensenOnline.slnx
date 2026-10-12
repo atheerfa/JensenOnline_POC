@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JensenOnline.Api/JensenOnline.Api.csproj" />
+  <Project Path="JensenOnline.Gateway/JensenOnline.Gateway.csproj" />
+</Solution>

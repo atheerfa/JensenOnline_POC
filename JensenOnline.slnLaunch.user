@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "JensenOnline.Gateway\\JensenOnline.Gateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "JensenOnline.Api\\JensenOnline.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
